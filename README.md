@@ -1,6 +1,8 @@
 # cheatsheet
 
-some command useful to remember .
+> If You Like It Give Me A Star ⭐ On GitHub 😇
+
+### some command useful to remember .
 
 ---
 ## BackEnd
