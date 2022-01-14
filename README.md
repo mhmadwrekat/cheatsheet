@@ -1,6 +1,6 @@
 # cheatsheet
 
-> If You Like It Give Me A Star ⭐ On GitHub 😇
+> If You Like It Click On A Star ⭐ In The Top Right Screen On GitHub 😇
 
 ### some command useful to remember .
 
