@@ -1,6 +1,11 @@
 # NextJS & TailwindCSS
 
 ---
+- npx create-next-app --example with-tailwindcss name
+
+
+###  ***OR***
+
 
 - npx create-next-app name
 - cd name

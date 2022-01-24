@@ -10,10 +10,15 @@
 ## React Awesome Reveal
 - npm install --save react-awesome-reveal
 - import { Fade } from "react-awesome-reveal";
-- <Fade>
-      <p>I will gently appear as I enter the viewport</p>
-    </Fade>
+```
+EX :
 
+<Fade>
+<p>
+I will gently appear as I enter the viewport
+</p>
+</Fade>
+```
 ---
 ## react-minimal-pie-chart
 
@@ -23,10 +28,9 @@
 ---
 ## react-scroll
 
+---
+## Email JS
+- npm install @emailjs/browser --save
 
-
-
-
-
-
+---
 
